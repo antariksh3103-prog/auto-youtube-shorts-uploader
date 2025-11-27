@@ -1,0 +1,15 @@
+auto-youtube-shorts-uploader/
+│
+├─ scripts/
+│   ├─ generate_script.py
+│   ├─ generate_voice.py
+│   ├─ generate_video.py
+│   ├─ upload_to_youtube.py
+│
+├─ assets/
+│   └─ backgrounds/
+│       ├─ (your stock videos go here)
+│
+└─ .github/
+    └─ workflows/
+        └─ auto_upload.yml
